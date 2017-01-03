@@ -195,4 +195,3 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.6)
