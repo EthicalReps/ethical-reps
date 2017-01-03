@@ -1,2 +1,1 @@
-# ethical-reps-www
-Ethical Reps website
+# [Ethical Reps](https://ethicalreps.org/)
